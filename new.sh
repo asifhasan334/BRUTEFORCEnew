@@ -12,23 +12,23 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     ASIF DARK TERMUX "$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" AUTHOR :"$ku" ASIF CHOWDHURY[FR13ND8]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" asif chowdhury"$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.ASIF] [MR.ASIF] [MR.ASIF]"$i"  |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] [ASIF CHOWDHURY]"$i" |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 01301779835"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" asifchowdhury3534@.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
-echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
-echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 1"$i" |"$cy" FACEBOOK ID HACK         "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" GMAIL ID HACK            "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" ANDROUAD HACK            "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 4"$i" |"$cy" FREE FIRE ACCOUNT HACK   "$i"|"$i"    |"$cy" G"$i" |"
+
+
 echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
 echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |"
@@ -250,14 +250,14 @@ if [ $pil = 19 ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
+
+
+
+
+
+echo $ku"WhatsApp :"$i" 01301779835"
+echo $ku"Facebook :"$i" Asif Chowdhury"
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
-sleep 2
-echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
-sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
-sleep 2
-echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo $pur">> Thanks support me <<"
 exit
 fi
