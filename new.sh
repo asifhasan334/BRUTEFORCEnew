@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 ##############################
-# AUTHOR : RISKI DARMAWAN    #
+# AUTHOR : ASIF CHOWDHURY    #
 # DIBUAT : 20 JANUARI 2019   #
 # FUNGSI : BRUTE FORCE FB    #
 ##############################
@@ -27,7 +27,7 @@ clear
 echo $kuning"############################################"$purple
 figlet -f future "BRUTEFORCE NEW"
 echo $kuning"############################################"
-echo $kuning"|"$ijo"AUTHOR : RISKI DARMAWAN    |"
+echo $kuning"|"$ijo"AUTHOR : ASIF CHOWDHURY  |"
 echo $kuning"|---------------------------| [H] HELP"
 echo $kuning"|"$ijo"DIBUAT : 20 JAN 2019       |"
 echo $kuning"|---------------------------|"
@@ -91,8 +91,8 @@ read -p "[+] PILIH NO : " pil
 echo
 echo "\033[36;1m"
 echo "[]=====================================================[]"
-echo "[] AUTHOR :  RISKI DARMAWAN                            []"
-echo "[] W A    :   085836465872                             []"
+echo "[] AUTHOR :  ASIF CHOWDHURY                            []"
+echo "[] W A    :   013017798350                             []"
 echo "[] NO HP  : 085835295133                               []"
 echo "[] PESAN  : GUNAKAN TOOLS INI DENGAN BIJAK             []"
 echo "[]=====================================================[]"
